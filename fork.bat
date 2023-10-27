@@ -1,5 +1,5 @@
 @echo off
-CLS
-A:
+cls
+a:
 start
-goto A
+goto a
